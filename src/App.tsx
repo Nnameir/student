@@ -1,7 +1,7 @@
-import "./App.css";
+import { ClickedPoints } from "./demos";
 
 function App() {
-  return <h1>student</h1>;
+  return <ClickedPoints />;
 }
 
 export default App;
